@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
