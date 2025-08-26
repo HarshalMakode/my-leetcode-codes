@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
