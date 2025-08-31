@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0162-find-peak-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 ## Memoization
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
