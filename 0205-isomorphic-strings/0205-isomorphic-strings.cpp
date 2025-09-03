@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool isIsomorphic(string s, string t) {
+        unordered_map<char, char> mp1; // s -> t
+        unordered_map<char, char> mp2; // t -> s
+
+        bool result = true;
+        int n = s.length();
+        for(int i = 0; i < n; i++) {
+            if(mp1.find(s[i]) == mp1.end() && mp2.find(t[i]) == mp2.end()) {
+                mp1[s[i]] = t[i];
+                mp2[t[i]] = s[i];
+            } else {
+                if(mp1[s[i]] != t[i] || mp2[t[i]] != s[i]) {
+                    result = false;
+                    break;
+                }
+            }
+        }
+
+        return result;
+    }
+};
