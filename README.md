@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
 | ------- |
