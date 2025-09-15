@@ -46,22 +46,43 @@
 //     }
 // };
 
+// class Solution {
+//         public:
+//         bool hasCycle(ListNode *head) {
+
+//             if (!head || !head->next) return false; // empty or single node
+
+//             ListNode* slow = head;
+//             ListNode* fast = head;
+
+//             while (fast != nullptr && fast->next != nullptr) {
+//                 slow = slow->next;           // move by 1
+//                 fast = fast->next->next;     // move by 2
+
+//                 if (slow == fast) return true; // cycle detected
+//                  // reached end -> no cycle
+//             }    
+//             return false;
+//         }
+// };
+
+
 class Solution {
-        public:
-        bool hasCycle(ListNode *head) {
+public:
+    bool hasCycle(ListNode *head) {
+        unordered_map<ListNode*, int> mp;
 
-            if (!head || !head->next) return false; // empty or single node
+        int pos = 0;
 
-            ListNode* slow = head;
-            ListNode* fast = head;
-
-            while (fast != nullptr && fast->next != nullptr) {
-                slow = slow->next;           // move by 1
-                fast = fast->next->next;     // move by 2
-
-                if (slow == fast) return true; // cycle detected
-                 // reached end -> no cycle
-            }    
-            return false;
+        while(head != nullptr) {
+            if(mp.find(head) == mp.end()) {
+                mp[head] = pos;
+            } else {
+                return true;
+            }
+            head = head->next;
+            pos++;
         }
+        return false;
+    }
 };
