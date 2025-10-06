@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0382-linked-list-random-node) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
