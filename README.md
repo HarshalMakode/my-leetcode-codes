@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
+| [4008-restore-finishing-order](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/4008-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/4008-restore-finishing-order) |
 ## Memoization
 |  |
 | ------- |
