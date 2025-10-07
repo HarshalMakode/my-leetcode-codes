@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
+| [2481-strictly-palindromic-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3830-find-closest-person) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
