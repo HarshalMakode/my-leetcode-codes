@@ -1,43 +1,86 @@
+// class Solution {
+// public:
+
+//     bool isValid(string s) {
+//         vector<int> arr;
+//         for(int i=0; i< s.size(); i++){
+//             if(s[i] == '('){
+//                 arr.push_back(s[i]);
+//             } else {
+//                 if (arr.empty() || 
+//                     (s[i] == ')' && arr.back() != '(')) {
+//                     return false;
+//                 }
+//                 arr.pop_back();
+//             }
+//         }
+//         int result = arr.empty();
+//         return result;
+//     }
+
+//     void generate(vector<string>& result, string s, int n) {
+
+//         if(s.length() == 2*n) {
+//             if (isValid(s)) {  
+//                 result.push_back(s);
+//             }
+//             return; 
+//         }
+
+//         generate(result, s + "(", n);
+        
+//         generate(result, s + ")", n);
+        
+
+//     }
+
+//     vector<string> generateParenthesis(int n) {
+//         vector<string> result;
+
+//         generate(result, "", n);
+
+//         return result;
+//     }
+// };
+
+
 class Solution {
 public:
 
-    bool isValid(string s) {
-        vector<int> arr;
-        for(int i=0; i< s.size(); i++){
-            if(s[i] == '('){
-                arr.push_back(s[i]);
-            } else {
-                if (arr.empty() || 
-                    (s[i] == ')' && arr.back() != '(')) {
-                    return false;
-                }
-                arr.pop_back();
-            }
+    vector<string> result;
+
+    bool isValid(string str) {
+        int count = 0;
+        for(char& ch: str) {
+            if(ch == '(') count++;
+            else count--;
+            if(count < 0) return false;
         }
-        int result = arr.empty();
-        return result;
+        return count == 0;
     }
 
-    void generate(vector<string>& result, string s, int n) {
-
-        if(s.length() == 2*n) {
-            if (isValid(s)) {  
-                result.push_back(s);
+    void solve(string& curr, int n) {
+        
+        if(curr.length() == 2*n) {
+            if(isValid(curr)) {
+                result.push_back(curr);
             }
-            return; 
+            return;
         }
 
-        generate(result, s + "(", n);
-        
-        generate(result, s + ")", n);
-        
+        curr.push_back('(');
+        solve(curr, n);
+        curr.pop_back();
 
+        curr.push_back(')');
+        solve(curr, n);
+        curr.pop_back();
     }
 
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
+        string curr = "";
 
-        generate(result, "", n);
+        solve(curr, n);
 
         return result;
     }
