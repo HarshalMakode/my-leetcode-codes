@@ -37,8 +37,7 @@ public:
     vector<string> generateParenthesis(int n) {
         vector<string> result;
 
-        generate(result, "(", n);
-        generate(result, ")", n);
+        generate(result, "", n);
 
         return result;
     }
