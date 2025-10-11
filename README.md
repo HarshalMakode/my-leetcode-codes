@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0022-generate-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
