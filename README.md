@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2481-strictly-palindromic-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
