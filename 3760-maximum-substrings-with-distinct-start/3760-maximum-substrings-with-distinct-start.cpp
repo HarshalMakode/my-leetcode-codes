@@ -12,20 +12,28 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     int maxDistinct(string s) {
+        
+//         bool seen[256] = {false};
+//         int count = 0;
+
+//         for(char c : s) {
+//             if(!seen[c]) {
+//                 seen[c] = true;
+//                 count++;
+//             }
+//         }
+
+//         return count;
+//     }
+// };
+
 class Solution {
 public:
     int maxDistinct(string s) {
-        
-        bool seen[256] = {false};
-        int count = 0;
-
-        for(char c : s) {
-            if(!seen[c]) {
-                seen[c] = true;
-                count++;
-            }
-        }
-
-        return count;
+        unordered_set<char> st(s.begin(), s.end());
+        return st.size();
     }
 };
