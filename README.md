@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0382-linked-list-random-node](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
