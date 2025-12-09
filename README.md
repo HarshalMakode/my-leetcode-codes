@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
