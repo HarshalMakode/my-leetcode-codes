@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3280-convert-date-to-binary) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
