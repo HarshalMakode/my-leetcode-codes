@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
