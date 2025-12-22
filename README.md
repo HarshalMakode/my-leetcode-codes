@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
