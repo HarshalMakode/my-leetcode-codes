@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
