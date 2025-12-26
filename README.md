@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0175-combine-two-tables) |
 | [1693-daily-leads-and-partners](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1693-daily-leads-and-partners) |
 ## Queue
 |  |
