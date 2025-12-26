@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3075-maximize-happiness-of-selected-children) |
