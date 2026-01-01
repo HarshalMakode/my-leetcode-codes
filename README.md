@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0162-find-peak-element) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0090-subsets-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0191-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2433-find-the-original-array-of-prefix-xor) |
