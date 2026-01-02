@@ -32,16 +32,33 @@
 // };
 
 
+// class Solution {
+// public:
+//     int repeatedNTimes(vector<int>& nums) {
+//         unordered_map<int, int> mp;
+
+//         for(auto i: nums) {
+//             mp[i]++;
+//             if(mp[i] > 1) {
+//                 return i;
+//             }
+//         }
+
+//         return nums[nums.size() -1];
+//     }
+// };
+
+
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        unordered_map<int, int> mp;
+        unordered_set<int> st;
 
         for(auto i: nums) {
-            mp[i]++;
-            if(mp[i] > 1) {
+            if(st.find(i) != st.end()) {
                 return i;
             }
+            st.insert(i);
         }
 
         return nums[nums.size() -1];
