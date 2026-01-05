@@ -6,7 +6,7 @@ public:
         int countNegative = 0;
 
         for (int i = 0; i < matrix.size(); i++) {
-            for (int j = 0; j < matrix[i].size(); j++) {
+            for (int j = 0; j < matrix[0].size(); j++) {
                 int val = matrix[i][j];
                 
                 result += abs(val);
