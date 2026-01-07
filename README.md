@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Database
 |  |
 | ------- |
