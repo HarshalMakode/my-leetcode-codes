@@ -22,26 +22,12 @@ public:
 
         int leftSum = totalSum(root->left);
         int rightSum = totalSum(root->right);
-        int sum = root->val + leftSum + rightSum;
-
-        return sum;
-    }
-
-    int find(TreeNode* root) {
-        if(root == NULL) {
-            return 0;
-        }
-
-        int leftSum = find(root->left);
-        int rightSum = find(root->right);
         long S1 = root->val + leftSum + rightSum;
 
         long S2 = SUM - S1;
-
         maxP = max(maxP, S1*S2);
 
         return S1;
-
     }
 
     int maxProduct(TreeNode* root) {
@@ -51,7 +37,7 @@ public:
 
         SUM = totalSum(root);
 
-        find(root);
+        totalSum(root);
 
         return maxP%1000000007;
     }
