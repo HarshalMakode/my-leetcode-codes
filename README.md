@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Bit Manipulation
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Database
@@ -437,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
