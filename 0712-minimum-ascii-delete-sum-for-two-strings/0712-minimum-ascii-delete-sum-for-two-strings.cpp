@@ -6,7 +6,7 @@ public:
     int t[1001][1001];
 
     int solve(int i, int j, string& s1, string& s2) {
-        if(i >= m && j >= n) return 0;
+        if(i >= m && j >= n) return t[i][j] = 0;
 
         if(t[i][j] != -1) {
             return t[i][j];
