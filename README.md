@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3453-separate-squares-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3453-separate-squares-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
