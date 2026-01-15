@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
