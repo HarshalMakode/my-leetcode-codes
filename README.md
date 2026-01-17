@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2413-smallest-even-multiple) |
 | [2481-strictly-palindromic-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2481-strictly-palindromic-number) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3280-convert-date-to-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3280-convert-date-to-binary) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
