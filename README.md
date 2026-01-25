@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
