@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Trie
 |  |
