@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2413-smallest-even-multiple) |
