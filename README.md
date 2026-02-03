@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3701-compute-alternating-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3701-compute-alternating-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
