@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
