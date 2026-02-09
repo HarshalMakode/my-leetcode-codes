@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2433-find-the-original-array-of-prefix-xor) |
