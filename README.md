@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3701-compute-alternating-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3701-compute-alternating-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/4008-restore-finishing-order) |
 ## Memoization
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2574-left-and-right-sum-differences) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
