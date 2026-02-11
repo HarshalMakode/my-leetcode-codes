@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 ## Depth-First Search
 |  |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
