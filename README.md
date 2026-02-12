@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3713-longest-balanced-substring-i) |
 | [3778-transform-array-by-parity](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3462-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/4008-restore-finishing-order) |
