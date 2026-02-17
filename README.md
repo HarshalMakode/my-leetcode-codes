@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0401-binary-watch) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
