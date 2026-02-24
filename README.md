@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
