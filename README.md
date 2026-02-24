@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
+| [0761-special-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 ## String
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
