@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3379-transformed-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1678-goal-parser-interpretation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
