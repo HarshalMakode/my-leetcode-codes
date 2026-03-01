@@ -1,17 +1,24 @@
-// class Solution {
-// public:
-//     int minPartitions(string n) {
-//         int result = 0;
-//         for(int i = 0; i < n.length(); i++) {
-//             result = max(result, n[i] - '0');
-//         }
-//         return result;
-//     }
-// };
-
 class Solution {
 public:
     int minPartitions(string n) {
-        return ranges::max(n) - '0';
+        int count = 0;
+
+        while (true) {
+            bool changed = false;
+
+            for (char &ch : n) {
+                if (ch != '0') {
+                    ch--;          // subtract 1
+                    changed = true;
+                }
+            }
+
+            if (!changed)
+                break;
+
+            count++;
+        }
+
+        return count;
     }
 };
