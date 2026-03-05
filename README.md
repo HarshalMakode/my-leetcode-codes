@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
