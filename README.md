@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0078-subsets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0225-implement-stack-using-queues) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0503-next-greater-element-ii) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0148-sort-list) |
