@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0761-special-binary-string) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
