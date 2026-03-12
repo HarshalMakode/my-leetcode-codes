@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1470-shuffle-the-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
