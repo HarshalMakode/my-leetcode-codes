@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0382-linked-list-random-node) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
