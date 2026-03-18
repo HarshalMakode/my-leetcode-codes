@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2574-left-and-right-sum-differences) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3714-longest-balanced-substring-ii) |
