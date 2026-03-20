@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
