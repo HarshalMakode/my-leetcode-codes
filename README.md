@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0930-binary-subarrays-with-sum) |
+| [0948-bag-of-tokens](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1200-minimum-absolute-difference) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0948-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
+| [0948-bag-of-tokens](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0948-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
