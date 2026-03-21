@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2401-longest-nice-subarray](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2401-longest-nice-subarray) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2574-left-and-right-sum-differences) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2418-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2481-strictly-palindromic-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3643-flip-square-submatrix-vertically) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
