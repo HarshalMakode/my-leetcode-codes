@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1672-richest-customer-wealth) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1727-largest-submatrix-with-rearrangements) |
