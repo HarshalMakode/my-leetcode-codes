@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0907-sum-of-subarray-minimums) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
