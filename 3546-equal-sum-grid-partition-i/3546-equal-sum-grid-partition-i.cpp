@@ -20,19 +20,19 @@ public:
             return false;
         }
 
+        sum = sum / 2;
+
         ll upperRow = 0;
-        for (int i = 0; i < m; i++) {
+        for (int i = 0; i < m-1; i++) {
             upperRow += row[i];
-            ll lowerRow = sum - upperRow;
-            if (lowerRow == upperRow)
+            if (upperRow == sum)
                 return true;
         }
 
         ll upperCol = 0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n-1; i++) {
             upperCol += col[i];
-            ll lowerCol = sum - upperCol;
-            if (lowerCol == upperCol)
+            if (upperCol == sum)
                 return true;
         }
 
