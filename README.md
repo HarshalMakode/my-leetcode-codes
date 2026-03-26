@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0860-lemonade-change) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0907-sum-of-subarray-minimums) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1262-greatest-sum-divisible-by-three) |
