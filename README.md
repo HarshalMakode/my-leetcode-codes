@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0070-climbing-stairs) |
@@ -856,4 +858,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
