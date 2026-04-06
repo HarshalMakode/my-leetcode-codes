@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0907-sum-of-subarray-minimums) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
