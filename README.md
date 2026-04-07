@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2288-count-operations-to-obtain-zero) |
 | [2751-robot-collisions](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2751-robot-collisions) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/2169-simple-bank-system) |
 ## Depth-First Search
 |  |
