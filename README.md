@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3701-compute-alternating-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
