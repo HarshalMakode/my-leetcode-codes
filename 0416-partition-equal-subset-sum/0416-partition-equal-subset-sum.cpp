@@ -34,6 +34,44 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     bool canPartition(vector<int>& nums) {
+//         int n = nums.size();
+
+//         int sum = 0;
+//         for(int i = 0; i < n; i++) {
+//             sum += nums[i];
+//         }
+
+//         if(sum%2 != 0) return false;
+
+//         sum = sum/2;
+
+//         vector<vector<bool>> dp(n+1, vector<bool>(sum+1, false));
+
+//         for(int i = 0; i < n; i++) 
+//             dp[i][0] = true;
+
+//         if(nums[0] <= sum) dp[0][nums[0]] = true; 
+
+//         for(int i = 1; i < n; i++) { 
+//             for(int k = 1; k <= sum; k++) { 
+//                 bool not_take = dp[i-1][k];
+//                 bool take = false;
+
+//                 if(nums[i] <= k) 
+//                     take = dp[i-1][k - nums[i]];
+
+//                 dp[i][k] = take | not_take;
+//             } 
+//         }
+
+//         return dp[n-1][sum];
+//     }
+// };
+
+
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
@@ -48,25 +86,26 @@ public:
 
         sum = sum/2;
 
-        vector<vector<bool>> dp(n+1, vector<bool>(sum+1, false));
+        vector<bool> prev(sum+1, false), curr(sum+1, false);
 
-        for(int i = 0; i < n; i++) 
-            dp[i][0] = true;
+        prev[0] = true;
 
-        if(nums[0] <= sum) dp[0][nums[0]] = true; 
+        if(nums[0] <= sum) prev[nums[0]] = true; 
 
         for(int i = 1; i < n; i++) { 
             for(int k = 1; k <= sum; k++) { 
-                bool not_take = dp[i-1][k];
+                bool not_take = prev[k];
                 bool take = false;
 
                 if(nums[i] <= k) 
-                    take = dp[i-1][k - nums[i]];
+                    take = prev[k - nums[i]];
 
-                dp[i][k] = take | not_take;
+                curr[k] = take | not_take;
             } 
+
+            prev = curr;
         }
 
-        return dp[n-1][sum];
+        return prev[sum];
     }
 };
