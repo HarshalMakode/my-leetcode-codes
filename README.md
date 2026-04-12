@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0496-next-greater-element-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
