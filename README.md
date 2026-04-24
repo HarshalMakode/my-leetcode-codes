@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0155-min-stack) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
