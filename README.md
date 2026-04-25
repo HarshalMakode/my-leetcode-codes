@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/HarshalMakode/my-leetcode-codes/tree/master/1028-recover-a-tree-from-preorder-traversal) |
